@@ -22,6 +22,10 @@ WIDTHS = {
     'content_video': 1200     # Full content videos
 }
 
+def is_gif_file(url):
+    """Check if URL points to a GIF file"""
+    return url and url.lower().endswith('.gif')
+
 def is_cloudinary_url(url):
     """Check if URL is a Cloudinary URL"""
     return url and CLOUDINARY_BASE in url
@@ -33,6 +37,11 @@ def is_already_optimized(url):
 def optimize_url(url, width=1200):
     """Add optimization parameters to Cloudinary URL"""
     if not is_cloudinary_url(url):
+        return url
+    
+    # Skip GIF files - Cloudinary doesn't optimize them well
+    if is_gif_file(url):
+        print(f"  ⏭️  Skipping GIF: {url[:60]}...")
         return url
     
     if is_already_optimized(url):
@@ -194,6 +203,7 @@ def main():
     print("   • WebP format for Chrome/Firefox")
     print("   • AVIF format when supported")
     print("   • Optimized quality per image")
+    print("   • GIF files are preserved as-is (not optimized)")
     print("\n🔄 If you need to restore, copy files from backup directory")
     print("=" * 60)
 
