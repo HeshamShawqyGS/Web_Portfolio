@@ -71,13 +71,13 @@
             },
             {
                 "type": "gif",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761933934/image270_oxma10.gif",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761933934/image270_oxma10.gif",
                 "caption": "Optional caption describing this image",
                 "position": "after-paragraph-5"
             },
             {
                 "type": "gif",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761933932/image277_gqh0nc.gif",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761933932/image277_gqh0nc.gif",
                 "caption": "Optional caption describing this image",
                 "position": "end"
             }

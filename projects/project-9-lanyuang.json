@@ -4,7 +4,7 @@
     "year": 2022,
     "description": "Tiling systems, weaving layers, parametric design @A_A& Design, Hong Kong",
     "timestamp": "Feb '22",
-    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_800,f_auto,q_auto/v1762027379/Picture8_gzcg3c.gif",
+    "previewImage": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762027379/Picture8_gzcg3c.gif",
     "content": {
         "paragraphs": [
             "",
@@ -21,7 +21,7 @@
             },
             {
                 "type": "gif",
-                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762027379/Picture8_gzcg3c.gif",
+                "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1762027379/Picture8_gzcg3c.gif",
                 "caption": "Optional caption",
                 "position": "after-paragraph-0"
             },

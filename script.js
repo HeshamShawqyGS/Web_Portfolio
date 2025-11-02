@@ -295,6 +295,12 @@ function handleProjectClick(project, element) {
         landingContent.classList.add('hidden');
     }
     
+    // Make sure right panel can scroll
+    const rightPanel = document.querySelector('.right-panel');
+    if (rightPanel) {
+        rightPanel.classList.remove('no-scroll');
+    }
+    
     // Hide placeholder
     contentPlaceholder.classList.add('hidden');
     contentPlaceholder.classList.remove('visible');

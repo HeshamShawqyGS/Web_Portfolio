@@ -187,6 +187,7 @@ a {
 .landing-animation.hidden {
     opacity: 0;
     pointer-events: none;
+    visibility: hidden;
 }
 
 .landing-animation canvas {

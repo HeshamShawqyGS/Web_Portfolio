@@ -30,7 +30,7 @@ function renderContactPage(socialData) {
         <div class="contact-container">
             <div class="contact-header">
                 <h1 class="contact-title">Get In Touch</h1>
-                <p class="contact-subtitle">Let's connect and discuss your next project</p>
+                <p class="contact-subtitle">Happy to connect</p>
             </div>
 
             <!-- Email Section -->
