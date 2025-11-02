@@ -129,7 +129,7 @@ function injectContactStyles() {
         }
 
         .contact-section-title {
-            font-size: 32px;
+            font-size: 24px;
             font-weight: 700;
             color: #111111;
             margin-bottom: 32px;
@@ -143,7 +143,7 @@ function injectContactStyles() {
         }
 
         .email-link {
-            font-size: 28px;
+            font-size: 20px;
             font-weight: 600;
             color: #111111;
             text-decoration: none;
