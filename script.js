@@ -342,6 +342,16 @@ function showFullContent(project) {
     // Build content HTML
     let contentHTML = `
         <div class="content-article">
+            <!-- Back to Gallery Button -->
+            <button class="back-to-gallery-btn" onclick="document.querySelector('.nav-link[href=\\'#gallery\\']').click();" title="Back to Gallery">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <rect x="3" y="3" width="7" height="7"></rect>
+                    <rect x="14" y="3" width="7" height="7"></rect>
+                    <rect x="14" y="14" width="7" height="7"></rect>
+                    <rect x="3" y="14" width="7" height="7"></rect>
+                </svg>
+            </button>
+            
             <div class="content-header">
                 <h1 class="content-title">${project.title}</h1>
                 <div class="content-meta">
