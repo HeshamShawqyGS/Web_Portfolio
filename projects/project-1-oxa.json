@@ -16,79 +16,79 @@
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761920973/ViewCapture20230629_161446_thf4mu.png",
-                "caption": "Optional caption describing this image",
+                "caption": "Diagram shows a cluster of bridges",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761922158/202_02-42-39-2708_eaitsh.png",
-                "caption": "Optional caption describing this image",
+                "caption": "Pedestrian paths slope rationalization",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "gif",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920972/OXA_02_MODULES_tmrdad.gif",
-                "caption": "Video demonstration of the system",
+                "caption": "Bridge build components library, a diagram showing the kit of parts",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "gif",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920972/OXA_06_SUN_nnhesc.gif",
-                "caption": "Animated visualization",
+                "caption": "Searching for the ideal shading based on the canopy possible rotation angles",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761923155/B-01_yvhiha.mp4",
-                "caption": "Animated visualization",
+                "caption": "Pedestrian bridge variations based on the selected module",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761923159/B-02_ktau2u.mp4",
-                "caption": "Animated visualization",
+                "caption": "Multimodal bridge variations based on the selected module",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761923938/B-03_rtjchc.mp4",
-                "caption": "Animated visualization",
+                "caption": "Bridge form generation steps",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "gif",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761920974/OXA_04_SINE_qecq8k.gif",
-                "caption": "Animated visualization",
+                "caption": "Sinusoidal canopy curve rationalization to standardize structural elements",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761931895/B-11_esutju.mp4",
-                "caption": "Animated visualization",
+                "caption": "Optimal canopy rotation angles to maximize shading area",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761920974/B-08_wmwdii.mp4",
-                "caption": "Animated visualization",
+                "caption": "Exploded diagram showing the different bridge layers",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761932085/B-09_ivoyq2.mp4",
-                "caption": "Animated visualization",
+                "caption": "Scaling up the form generation process for the 25 project bridges",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761920976/B-10_fzmobs.mp4",
-                "caption": "Animated visualization",
+                "caption": "Animation shows the interoperability process between Rhino and Revit",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761920973/OXA_01_bzdujq.png",
-                "caption": "Final result",
+                "caption": "Axonometric view showing the masterplan different bridges",
                 "position": "end"
             }
         ]

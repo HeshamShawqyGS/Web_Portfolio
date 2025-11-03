@@ -18,55 +18,55 @@
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761953332/image242_szfcw2.jpg",
-                "caption": "Optional caption",
+                "caption": "Partial map of Barcelona highlighting the material sourcing analysis in a specific area",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761953339/2025-10-31_23_27_08-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_o8jtqo.png",
-                "caption": "Optional caption",
+                "caption": "A selection of collected Google Street View images as part of the imagery dataset",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761953332/image243_cs34kv.png",
-                "caption": "Optional caption",
+                "caption": "Diagram illustrating the projection process of Google Street Views onto individual buildings",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761953331/image254_fcox9y.jpg",
-                "caption": "Optional caption",
+                "caption": "Preliminary testing of the computer vision model for classifying different elevation materials",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761953331/image255_ewjw4a.png",
-                "caption": "Optional caption",
+                "caption": "Sample CSV data displaying building entries with corresponding material percentages",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761953338/v-03_tzernp.mp4",
-                "caption": "Optional caption",
+                "caption": "Initial use case of the web platform for querying a single building",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761953339/v-02_byferf.mp4",
-                "caption": "Optional caption",
+                "caption": "Second user scenario for querying materials from building clusters",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761953341/v-01_x7e2me.mp4",
-                "caption": "Optional caption",
+                "caption": "Third user scenario focused on material mining across entire cities",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761953335/2022-07-13_22_08_20-Window_llthao.jpg",
-                "caption": "Optional caption",
+                "caption": "Web platform user interface",
                 "position": "after-paragraph-4"
             }
         ]

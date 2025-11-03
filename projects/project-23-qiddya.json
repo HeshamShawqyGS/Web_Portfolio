@@ -14,37 +14,37 @@
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762102248/image10_urimwu.png",
-                "caption": "Optional caption",
+                "caption": "Axonometric view illustrating the formation of the three tensile roof structures",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1762102244/V-02_thggrz.mp4",
-                "caption": "Optional caption",
+                "caption": "Animation showcasing the mesh-based soft body collision simulation",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1762102244/V-01_t0hplx.mp4",
-                "caption": "Optional caption",
+                "caption": "Tower double-skin façade system with integrated structural components",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1762102243/V-03_obameg.mp4",
-                "caption": "Optional caption",
+                "caption": "The weaving system of the netwrok isocurves",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762102243/image4_lda9nx.png",
-                "caption": "Optional caption",
+                "caption": "Axonometric study of a singular tensile structure",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762102243/image_77_fbml52.png",
-                "caption": "Optional caption",
+                "caption": "Interior illustration beneath one of the mesh structures",
                 "position": "end"
             }
         ]

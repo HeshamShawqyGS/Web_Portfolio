@@ -19,55 +19,55 @@
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761943970/image154_jxiqg5.jpg",
-                "caption": "Optional caption",
+                "caption": "Rendered view of the lunar habitat design",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761944050/lunar-video_kdnmrv.mp4",
-                "caption": "Optional caption",
+                "caption": "Video illustrating the entire computational design process and form-finding sequence",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761943980/bimsc-group-5-final-submission-2-730x411_zt27sk.png",
-                "caption": "Optional caption",
+                "caption": "Preliminary conceptual studies and reference materials for the project",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761943975/2025-10-31_20_30_21-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_bfi4fj.png",
-                "caption": "Optional caption",
+                "caption": "Exploded diagram of the lunar housing unit displaying its various components",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761943985/2025-10-31_20_30_50-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_gof9ok.png",
-                "caption": "Optional caption",
+                "caption": "Modular system with layered configuration",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761943964/image175_vj97mh.jpg",
-                "caption": "Optional caption",
+                "caption": "Axonometric diagram illustrating the fabrication and assembly of the modules",
                 "position": "after-paragraph-4"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761943988/copy-of-bimsc-group-5-final-submission-12-730x411_evee11.png",
-                "caption": "Optional caption",
+                "caption": "Step-by-step depiction of the growth form in the aggregation system",
                 "position": "after-paragraph-5"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761943976/2025-10-31_20_41_09-EUR-HDI-205_Hesham.Shawqy_grimshaw.global_fjbywq.png",
-                "caption": "Optional caption",
+                "caption": "Different models highlighting the layered components",
                 "position": "after-paragraph-5"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761943967/image176_hdycks.jpg",
-                "caption": "Optional caption",
+                "caption": "Top-down render of the project masterplan",
                 "position": "after-paragraph-5"
             }
         ]

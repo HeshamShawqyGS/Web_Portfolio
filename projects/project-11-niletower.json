@@ -16,43 +16,43 @@
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762034270/image129_izly0i.jpg",
-                "caption": "Optional caption",
+                "caption": "Partial 3D white-rendered view",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762034274/Diagram-01_wxaw53.jpg",
-                "caption": "Optional caption",
+                "caption": "Form-finding diagram",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762034283/image128_j6qip2.png",
-                "caption": "Optional caption",
+                "caption": "Partial 3D white-rendered view",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762034279/image130_gb5zq4.jpg",
-                "caption": "Optional caption",
+                "caption": "3D studies of the parametric glazing and louver systems",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762034295/05_nczsty.jpg",
-                "caption": "Optional caption",
+                "caption": "Elevation view of the louver system highlighting clusters of rotation",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762034276/image131_qwd51q.jpg",
-                "caption": "Optional caption",
+                "caption": "Curved glazing unrolled drawings automation",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762034288/image_22_mpw0to.png",
-                "caption": "Optional caption",
+                "caption": "Street-evel perspective",
                 "position": "end"
             }
         ]

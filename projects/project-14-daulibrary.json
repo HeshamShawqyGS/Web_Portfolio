@@ -16,37 +16,37 @@
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762042005/01_rk1xrl.jpg",
-                "caption": "Optional caption",
+                "caption": "Street-level render showcasing the parametric stone gates",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762041993/form_generation_vsy5zu.png",
-                "caption": "Optional caption",
+                "caption": "Form-finding workflow for the library's gates",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762041991/02_fqn3ed.jpg",
-                "caption": "Optional caption",
+                "caption": "Exploded diagrams illustrating the various landscape and library elements",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762041996/3d_section_seuews.png",
-                "caption": "Optional caption",
+                "caption": "Environmental studies highlighting passive design techniques",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762041999/04_ymjbdq.jpg",
-                "caption": "Optional caption",
+                "caption": "Four elevation views of the library gates",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762042001/plan_d28m4x.png",
-                "caption": "Optional caption",
+                "caption": "Plan view",
                 "position": "end"
             }
         ]

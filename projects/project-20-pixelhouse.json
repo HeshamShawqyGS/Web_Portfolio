@@ -16,41 +16,41 @@
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762082892/image_66_uguxjf.png",
-                "caption": "Optional caption",
+                "caption": "Aerial rendered view of the twin towers",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762082891/form-finding_llwvrf.png",
-                "caption": "Optional caption",
+                "caption": "Form-finding process for generating the housing units",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762082892/board-02_cuzx85.png",
-                "caption": "Optional caption",
+                "caption": "Urban study analysis",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762082891/diagram-02_tsd6qv.png",
-                "caption": "Optional caption",
+                "caption": "Comparison of space programs",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762082890/Section_fhsczm.png",
-                "caption": "Optional caption",
+                "caption": "Partial 2D section highlighting the sloped interior slabs",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762082891/board_kqx9sd.png",
-                "caption": "Optional caption",
+                "caption": "Sectional study board",
                 "position": "after-paragraph-3"
             },
             {
-                "type": "image",
+                "type": "Aerial render view",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1762082893/1-2_zj67ia.jpg",
                 "caption": "Optional caption",
                 "position": "end"

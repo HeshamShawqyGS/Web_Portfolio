@@ -17,55 +17,55 @@
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761937607/image152_gftwir.jpg",
-                "caption": "Optional caption",
+                "caption": "Aerial view illustrating the emergent shading elements integrated within their surrounding context",
                 "position": "after-paragraph-0"
             },
             {
                 "type": "video",
                 "src": "https://res.cloudinary.com/dnahwqvhd/video/upload/w_1200,f_auto,q_auto/v1761938536/growth_wtk9xz.mp4",
-                "caption": "Optional caption",
+                "caption": "Animation illustrating the growth simulation of the particle system",
                 "position": "after-paragraph-1"
             },
             {
                 "type": "gif",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/v1761937617/it02a-1_umdzb1.gif",
-                "caption": "Optional caption",
+                "caption": "Initial testing of the mesh relaxation through an iterative process",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761937622/04-2_sthywb.png",
-                "caption": "Optional caption",
+                "caption": "Explanation of the forces driving the particle growth simulation",
                 "position": "after-paragraph-2"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761937593/image138_matg84.jpg",
-                "caption": "Optional caption",
+                "caption": "Grid design space illustrating the different variations of mesh growth",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761937595/10-3_oc8n3d.png",
-                "caption": "Optional caption",
+                "caption": "Details of the structural elements and the varying membrane densities",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761937599/image143_ahsame.jpg",
-                "caption": "Optional caption",
+                "caption": "Diagram of the mesh stripping algorithm",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761939011/image151_cpegsl.jpg",
-                "caption": "Optional caption",
+                "caption": "Cross-sectional view of the shading elements",
                 "position": "after-paragraph-3"
             },
             {
                 "type": "image",
                 "src": "https://res.cloudinary.com/dnahwqvhd/image/upload/w_1200,f_auto,q_auto/v1761937606/image153_l0vwu2.jpg",
-                "caption": "Optional caption",
+                "caption": "Rendered view showcasing the structural details",
                 "position": "after-paragraph-3"
             }
         ]
